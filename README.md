@@ -37,4 +37,4 @@ construct the sample data for this project.
 ## Result
 Based on the result, using Amazon data, we are able to classify 91% of the reviews in Japanese correctly. 
 This accuracy rate is significantly high, but we expect that we can achieve higher accuracy rate by injecting more data
-into the fine-tuning and training processes.
+into the fine-tuning and training processes, and possibly adjusting some hyper-parameters.
